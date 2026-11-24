@@ -1,5 +1,7 @@
 # Local Leads MCP (SteadyScrape)
 
+[![dev.steadyscrape/local-leads MCP connector](https://glama.ai/mcp/connectors/dev.steadyscrape/local-leads/badges/score.svg)](https://glama.ai/mcp/connectors/dev.steadyscrape/local-leads)
+
 A remote MCP server for local business research: find businesses on Google Maps by category and area with lead filters, read their recent reviews, and get complaint and praise themes. Business and review data comes from DataForSEO under licence.
 
 **Endpoint (Streamable HTTP):**
